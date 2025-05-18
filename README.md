@@ -14,20 +14,21 @@
 
 - Python
 
-- Streamlit — interactive web UI
+- Streamlit:interactive web UI
 
-- Pandas — CSV and data manipulation
+- Pandas: CSV and data manipulation
 
-- piexif — EXIF metadata editing (JPEG only)
+- piexif: EXIF metadata editing (JPEG only)
 
-- exifread — reading image metadata
+- exifread: reading image metadata
 
-- PyPDF2 — PDF metadata extraction
+- PyPDF2: PDF metadata extraction
 
-- python-docx — Word document metadata
+- python-docx: Word document metadata
 
-- folium + streamlit-folium — interactive GPS maps
+- folium + streamlit-folium: interactive GPS maps
 
 ## Author
 **Samira Jawish**
+
 Built with ❤️ for making metadata easier to explore and edit.
