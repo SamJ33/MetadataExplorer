@@ -1,4 +1,4 @@
-# MetaData Hub
+# Metadata Hub
 
 **Metadata Hub** is a user-friendly Streamlit web application for viewing, editing, and exporting metadata from various file types — including images (JPEG/PNG), PDFs, and Word documents. It also provides GPS-based mapping if location data is embedded in photos.
 
